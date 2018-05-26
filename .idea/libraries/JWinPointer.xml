@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JWinPointer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jpen-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

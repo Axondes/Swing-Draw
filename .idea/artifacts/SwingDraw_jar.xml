@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SwingDraw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SwingDraw_jar</output-path>
+    <root id="archive" name="SwingDraw.jar">
+      <element id="module-output" name="SwingDraw" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-simple.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/xuggler.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jpen-2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

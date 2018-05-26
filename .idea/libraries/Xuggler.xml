@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Xuggler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xuggler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
